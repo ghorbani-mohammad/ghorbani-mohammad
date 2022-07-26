@@ -16,6 +16,6 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6wsMDXvLDbUi6aw1xhVbNA"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table><tr><td style="border:none;"><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td style="border:none;"><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           committer_email: "michael.ghorb@gmail.com"
           comment_tag_name: "YOUTUBE-POST-LIST"
