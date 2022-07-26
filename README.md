@@ -18,3 +18,5 @@
 # My recent videos on the Youtube
 <!-- YOUTUBE-POST-LIST:START -->
 <!-- YOUTUBE-POST-LIST:END -->
+
+[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghorbani-mohammad)](https://github.com/anuraghazra/github-readme-stats)
