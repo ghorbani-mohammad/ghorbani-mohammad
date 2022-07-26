@@ -15,7 +15,7 @@
 <!-- MEDIUM-POST-LIST:START -->
 <!-- MEDIUM-POST-LIST:END -->
 
-# My recent videos on the Youtube
+# <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" color="#FF0000" /> My recent videos on the Youtube
 <!-- YOUTUBE-POST-LIST:START -->
 <!-- YOUTUBE-POST-LIST:END -->
 
