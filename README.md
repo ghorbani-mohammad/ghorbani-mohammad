@@ -11,7 +11,7 @@
 - ⚡ Fun fact: 3 years ago, I decided to change my professional language from PHP to Python. These days I also think about same decision and switch to JS/NodeJS world
 
 
-# My recent posts on the Medium
+### 📝 My recent posts on the Medium
 <!-- MEDIUM-POST-LIST:START -->
 <!-- MEDIUM-POST-LIST:END -->
 
