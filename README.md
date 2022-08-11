@@ -24,9 +24,9 @@
 <!-- YOUTUBE-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vE5gKRgjvkg"><img width="140px" src="https://i.ytimg.com/vi/vE5gKRgjvkg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vE5gKRgjvkg">How to start a new Django project with Docker &lpar;Part1&rpar;</a><br/>Aug 10, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wkHPLbtnZCA"><img width="140px" src="https://i.ytimg.com/vi/wkHPLbtnZCA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wkHPLbtnZCA">LinkedIn Crawler with Django Part 2</a><br/>Jul 24, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=wkHPLbtnZCA">LinkedIn Crawler with Django &lpar;Part 2&rpar;</a><br/>Jul 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CDhUzTOIZO4"><img width="140px" src="https://i.ytimg.com/vi/CDhUzTOIZO4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CDhUzTOIZO4">LinkedIn Crawler with Django Part 1</a><br/>Jul 22, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=CDhUzTOIZO4">LinkedIn Crawler with Django &lpar;Part 1&rpar;</a><br/>Jul 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=swLAV_uCYCk"><img width="140px" src="https://i.ytimg.com/vi/swLAV_uCYCk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=swLAV_uCYCk">How To Deploy Django App Over Kubernetes Cluster</a><br/>Jul 20, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=X9Hc0VP0Z4U"><img width="140px" src="https://i.ytimg.com/vi/X9Hc0VP0Z4U/mqdefault.jpg"></a></td>
