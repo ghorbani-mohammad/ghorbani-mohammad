@@ -21,7 +21,9 @@
 <!-- MEDIUM-POST-LIST:END -->
 
 ### 📺 My recent videos on the Youtube
-<!-- YOUTUBE-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vE5gKRgjvkg"><img width="140px" src="https://i.ytimg.com/vi/vE5gKRgjvkg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EsmbMLwDmik"><img width="140px" src="https://i.ytimg.com/vi/EsmbMLwDmik/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EsmbMLwDmik">How to use Postgres database with Docker using Docker-Compose &lpar;Part 2&rpar;</a><br/>Aug 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vE5gKRgjvkg"><img width="140px" src="https://i.ytimg.com/vi/vE5gKRgjvkg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vE5gKRgjvkg">How to start a new Django project with Docker &lpar;Part1&rpar;</a><br/>Aug 10, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wkHPLbtnZCA"><img width="140px" src="https://i.ytimg.com/vi/wkHPLbtnZCA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wkHPLbtnZCA">LinkedIn Crawler with Django &lpar;Part 2&rpar;</a><br/>Jul 24, 2022</td></tr></table>
@@ -29,8 +31,6 @@
 <td><a href="https://www.youtube.com/watch?v=CDhUzTOIZO4">LinkedIn Crawler with Django &lpar;Part 1&rpar;</a><br/>Jul 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=swLAV_uCYCk"><img width="140px" src="https://i.ytimg.com/vi/swLAV_uCYCk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=swLAV_uCYCk">How To Deploy Django App Over Kubernetes Cluster</a><br/>Jul 20, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=X9Hc0VP0Z4U"><img width="140px" src="https://i.ytimg.com/vi/X9Hc0VP0Z4U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X9Hc0VP0Z4U">Elasticsearch with Django Tutorial</a><br/>Jul 8, 2022</td></tr></table>
 <!-- YOUTUBE-POST-LIST:END -->
 
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghorbani-mohammad)](https://github.com/anuraghazra/github-readme-stats)
