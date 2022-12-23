@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my Youtube channel
+- 🔭 I’m currently working on my YouTube channel
 - 🌱 I’m currently learning how to get involve in open source projects
 - 👯 I’m looking to collaborate on Backend positions
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Django and DRF
 - 📫 How to reach me: Twitter
 - 😄 Pronouns: He/His
@@ -15,7 +14,7 @@
 <!-- MEDIUM-POST-LIST:START -->
 <!-- MEDIUM-POST-LIST:END -->
 
-### 📺 My recent videos on the Youtube
+### 📺 My recent videos on the YouTube
 <!-- YOUTUBE-POST-LIST:START -->
 <!-- YOUTUBE-POST-LIST:END -->
 
