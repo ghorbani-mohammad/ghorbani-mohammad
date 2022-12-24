@@ -1,8 +1,8 @@
-### Hi there 👋 My name is Mike and I'm a Python/Django developer with experience in DevOps.
+### Hi there 👋 My name is Mohammad and I'm a Python/Django developer with experience in DevOps.
 
 
 - 🔭 I’m currently working on my YouTube channel
-- 🌱 I’m currently learning how to get involve in open source projects
+- 🌱 I’m currently learning basic concepts of Python
 - 👯 I’m looking to collaborate on Backend positions
 - 💬 Ask me about Django and DRF
 - 📫 How to reach me: Twitter
