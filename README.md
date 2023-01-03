@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently learning basic concepts of Python
 - 🌱 I’m currently working on my YouTube channel
-- 👯 I’m looking to collaborate on backend positions
 - 💬 Ask me about Django and DRF
 - 📫 How to reach me: Twitter
 - 😄 Pronouns: He/His
