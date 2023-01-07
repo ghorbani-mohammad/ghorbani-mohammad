@@ -2,10 +2,10 @@
 
 
 #### 💻 You wanna see how I code? Sure, You can see two ongoing personal projects:
-#### These are two projects that I work on them on daily basis and in my spare time.
+#### ➡️ These are two projects that I work on them on daily basis and in my spare times.
 - [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
   - Implemented in Django framework
-  - I use it for crawling data from LinkedIn, Twitter and Telegram. Sometimes I need to know what people say about specific topics.
+  - I use it for crawling data from LinkedIn, Twitter and Telegram. Sometimes I need to know what people say about specific topics. Using this project, I can define search pages for twitter and then I'll get new posts from that search results in my Telegram channel.
 - [**Websites Crawler**](https://github.com/ghorbani-mohammad/Crawler-Framework)
   - Implemented in Django framework
 
