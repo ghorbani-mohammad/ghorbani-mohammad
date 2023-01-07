@@ -1,10 +1,11 @@
 #### My name is Mohammad and I'm a Python/Django developer.
 
 
-#### 💻 Two my ongoing personal projects:
+#### 💻 You wanna see how I code? Sure, You can see two ongoing personal projects:
+#### These are two projects that I work on them on daily basis and in my spare time.
 - [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
   - Implemented in Django framework
-  - I use it for crawling data from LinkedIn, Twitter and Telegram
+  - I use it for crawling data from LinkedIn, Twitter and Telegram. Sometimes I need to know what people say about specific topics.
 - [**Websites Crawler**](https://github.com/ghorbani-mohammad/Crawler-Framework)
   - Implemented in Django framework
 
