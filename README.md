@@ -3,10 +3,10 @@
 
 #### 💻 Two my ongoing projects
 - [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
-  - Implemented with Django
+  - Implemented in Django framework
   - I use it for crawling data from LinkedIn, Twitter and Telegram
 - [**Websites Crawler**](https://github.com/ghorbani-mohammad/Crawler-Framework)
-  - Implemented with Django
+  - Implemented in Django framework
 
 
 #### 📝 My recent posts on the Medium
