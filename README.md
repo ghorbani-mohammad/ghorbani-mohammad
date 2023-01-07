@@ -1,6 +1,6 @@
 ### 👨 My name is Mohammad and I'm a Python/Django developer.
 
-#### ➡️ These are two projects that I work on them on daily basis and in my spare times.
+#### ➡️ These are two projects that I work on them on daily basis and in my spare times:
 - [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
   - Implemented in Django framework
   - I use it for crawling data from LinkedIn, Twitter and Telegram. 
@@ -11,7 +11,17 @@
   - Implemented in Django framework
   - I created this project because back then I wanted to get new articles about politics or new tutorial articles in my Telegram channels.
   - With this application you can get new articles in your channels. To do that you should define structure of the your wanted page. You should specify how it should get new articles.
-
+ #### ➡️ Other projects:
+ - [**My Website**](https://github.com/ghorbani-mohammad/My-Website)
+   - Developed with PHP/Laravel, Jquery and Bootstrap
+ - [**Crypto Assets Manager**](https://github.com/ghorbani-mohammad/Crypto-Assets-Manager)
+   - Developed with Django
+   - The goal was to register your bought assets and see their value in real-time and calculate your profit and loss
+ - [**Persian Text Analyzer**](https://github.com/ghorbani-mohammad/persian-text-analyzer)
+   - Developed with Django
+   - I used pretrained pytorch models to do some NLP tasks
+   - Tasks was: NER, Sentiment, Classification
+   - Users could sent their text via API call and get back the desired results.
 
 ### 📝 My recent posts on the Medium
 <!-- MEDIUM-POST-LIST:START -->
