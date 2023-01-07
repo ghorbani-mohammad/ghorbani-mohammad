@@ -5,7 +5,9 @@
 #### ➡️ These are two projects that I work on them on daily basis and in my spare times.
 - [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
   - Implemented in Django framework
-  - I use it for crawling data from LinkedIn, Twitter and Telegram. Sometimes I need to know what people say about specific topics. Using this project, I can define search pages for twitter and then I'll get new posts from that search results in my Telegram channel.
+  - I use it for crawling data from LinkedIn, Twitter and Telegram. 
+  - (Twitter) Sometimes I need to know what people say about specific topics. Using this project, I can define search pages for Twitter and then I'll get new posts from that search results in my Telegram channel.
+  - (LinkedIn) This project can get new posts from Job Search section and also Feed section. So you will notice new jobs ASAP. I've defined various filters for Job Search section.
 - [**Websites Crawler**](https://github.com/ghorbani-mohammad/Crawler-Framework)
   - Implemented in Django framework
 
