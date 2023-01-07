@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Mohammad and I'm a Python/Django developer with experience in DevOps.
+### My name is Mohammad and I'm a Python/Django developer.
 
 
 - 🔭 I’m currently learning basic concepts of Python
