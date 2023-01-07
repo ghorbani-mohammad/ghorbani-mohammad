@@ -1,13 +1,13 @@
 ### 👨 My name is Mohammad and I'm a Python/Django developer.
 
 #### ➡️ These are two projects that I work on them on daily basis and in my spare times.
-- [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
+- [1️ **Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
   - Implemented in Django framework
   - I use it for crawling data from LinkedIn, Twitter and Telegram. 
   - (Twitter) Sometimes I need to know what people say about specific topics. Using this project, I can define search pages for Twitter and then I'll get new posts from that search results in my Telegram channel.
   - (LinkedIn) This project can get new posts from Job Search section and also Feed section. So you will notice new jobs ASAP. I've defined various filters for Job Search section. For example you can ignore jobs that has 'full stack' in their title or 'united kingdom' in their location.
   - (Telegram) You can define your favourite channels using their username and then get their new messages into your application. For example you can difine if a message had a keyword send it to my channel.
-- [**Websites Crawler**](https://github.com/ghorbani-mohammad/Crawler-Framework)
+- [2️ **Websites Crawler**](https://github.com/ghorbani-mohammad/Crawler-Framework)
   - Implemented in Django framework
   - I created this project because back then I wanted to get new articles about politics or new tutorial articles in my Telegram channels.
   - With this application you can get new articles in your channels. To do that you should define structure of the your wanted page. You should specify how it should get new articles.
