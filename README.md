@@ -1,12 +1,9 @@
 #### My name is Mohammad and I'm a Python/Django developer.
 
 
-- 🔭 I’m currently learning basic concepts of Python
-- 🌱 I’m currently working on my YouTube channel
-- 💬 Ask me about Django and DRF
-- 📫 How to reach me: Twitter
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 3 years ago, I decided to change my professional language from PHP to Python. These days I also think about same decision and switch to JS/NodeJS world.
+##### Two my ongoing projects
+- Social Crawler
+- Websites Crawler
 
 
 #### 📝 My recent posts on the Medium
