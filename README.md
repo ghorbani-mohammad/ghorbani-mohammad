@@ -1,4 +1,4 @@
-#### My name is Mohammad and I'm a Python/Django developer.
+### My name is Mohammad and I'm a Python/Django developer.
 
 
 #### 💻 You wanna see how I code? Sure, You can see two ongoing personal projects:
@@ -10,7 +10,7 @@
   - Implemented in Django framework
 
 
-#### 📝 My recent posts on the Medium
+### 📝 My recent posts on the Medium
 <!-- MEDIUM-POST-LIST:START -->
 - [How To Deploy A Django App Over A Kubernetes Cluster &lpar;With Video&rpar;](https://medium.com/@tech_with_mike/how-to-deploy-a-django-app-over-a-kubernetes-cluster-with-video-bc5c807d80e2?source=rss-9aeaf3f70d42------2)
 - [ElasticSearch with Django Quick Tutorial &lpar;with Video&rpar;](https://medium.com/@tech_with_mike/elasticsearch-with-django-quick-tutorial-with-video-e75263f813c7?source=rss-9aeaf3f70d42------2)
@@ -19,7 +19,7 @@
 - [CI/CD with Django and GitHub &lpar;with Video&rpar;](https://medium.com/@tech_with_mike/ci-cd-with-django-and-github-6499c4ced80c?source=rss-9aeaf3f70d42------2)
 <!-- MEDIUM-POST-LIST:END -->
 
-#### 📺 My recent videos on the YouTube
+### 📺 My recent videos on the YouTube
 <!-- YOUTUBE-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EsmbMLwDmik"><img width="140px" src="https://i.ytimg.com/vi/EsmbMLwDmik/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EsmbMLwDmik">How to use Postgres database with Docker using Docker-Compose &lpar;Part 2&rpar;</a><br/>Aug 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vE5gKRgjvkg"><img width="140px" src="https://i.ytimg.com/vi/vE5gKRgjvkg/mqdefault.jpg"></a></td>
