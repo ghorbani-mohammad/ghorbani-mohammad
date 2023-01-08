@@ -24,6 +24,8 @@
    - About finding keywords or keyphrases that have most information gain
  - [**Document Representation**](https://github.com/ghorbani-mohammad/nlp-document-representation)
    - About compare different ways to represent text documents
+ - [**POSTagger NER**](https://github.com/ghorbani-mohammad/nlp-postagger-ner)
+   - Train models for POS tagging and NER
  #### ➡️ Other projects:
  - [**Crypto Assets Manager**](https://github.com/ghorbani-mohammad/Crypto-Assets-Manager)
    - Developed with Django
