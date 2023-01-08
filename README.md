@@ -22,6 +22,8 @@
    - I used TextRank algorithm to extract keywords and keyphrases from a text
  - [**Information Gain**](https://github.com/ghorbani-mohammad/nlp-information-gain)
    - About finding keywords or keyphrases that have most information gain
+ - [**Document Representation**](https://github.com/ghorbani-mohammad/nlp-document-representation)
+   - About compare different ways to represent text documents
  #### ➡️ Other projects:
  - [**Crypto Assets Manager**](https://github.com/ghorbani-mohammad/Crypto-Assets-Manager)
    - Developed with Django
