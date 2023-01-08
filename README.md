@@ -18,6 +18,8 @@
    - I used pretrained pytorch models to do some NLP tasks
    - Tasks was: NER, Sentiment, Classification
    - Users could sent their text via API call and get back the desired results.
+ - [**Keyword Extraction**](https://github.com/ghorbani-mohammad/nlp-keyword-extraction)
+   - I used TextRank algorithm to extract keywords and keyphrases from a text
  #### ➡️ Other projects:
  - [**Crypto Assets Manager**](https://github.com/ghorbani-mohammad/Crypto-Assets-Manager)
    - Developed with Django
