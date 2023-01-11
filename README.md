@@ -10,7 +10,7 @@
 - [**Websites Crawler**](https://github.com/ghorbani-mohammad/Crawler-Framework)
   - Implemented using Django framework
   - I created this project because back then I wanted to get new articles about politics or new tutorial articles in my Telegram channels.
-  - With this application you can get new articles in your channels. To do that you should define structure of the your wanted page. You should specify how it should get new articles.
+  - With this application you can get new articles from whatever website that you want. First you should define the structure of the website and how it should gets the list of articles. Then you should define how the get content of each article. So in general you have two define two HTML structure. (getting list of articles and getting the content of a article)
 
  #### ➡️ I've done some projects about NLP tasks in the past:
  - [**Persian Text Analyzer**](https://github.com/ghorbani-mohammad/persian-text-analyzer)
