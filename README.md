@@ -1,6 +1,6 @@
 ### 👨 Wellcome to a Python/Django developer's zone!
 
-#### ➡️ Some of my own projects that I usually spend time on them:
+#### ➡️ Some of my own projects that I usually spend time on are:
 - [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
   - Implemented using Django framework
   - I use it for crawling data from LinkedIn, Twitter and Telegram. 
