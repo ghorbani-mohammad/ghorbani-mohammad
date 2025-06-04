@@ -1,4 +1,4 @@
-### 👨 Wellcome to a Python/Django developer's zone!
+### 👨 Wellcome to a Software Engineer zone!
 
 #### ➡️ Some of my own projects that I usually spend time on are:
 - [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
