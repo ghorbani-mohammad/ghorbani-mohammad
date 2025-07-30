@@ -1,4 +1,4 @@
-# 👨‍💻 Mohammad Ghorbani - Software Engineer
+# 👨‍💻 Mo Ghorbani - Software Engineer
 
 Welcome to my GitHub profile! I'm a passionate software engineer who loves building innovative solutions and exploring new technologies.
 
