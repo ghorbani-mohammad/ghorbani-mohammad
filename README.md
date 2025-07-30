@@ -1,45 +1,70 @@
-### 👨 Wellcome to a Software Engineer zone!
+# 👨‍💻 Mohammad Ghorbani - Software Engineer
 
-#### ➡️ Some of my own projects that I usually spend time on are:
-- [**Social Networks Crawler**](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)
-  - Implemented using Django framework
-  - I use it for crawling data from LinkedIn, Twitter and Telegram. 
-  - (Twitter) Sometimes I need to know what people say about specific topics. Using this project, I can define search pages for Twitter and then I'll get new posts from that search results in my Telegram channel.
-  - (LinkedIn) This project can get new posts from Job Search section and also Feed section. So you will notice new jobs ASAP. I've defined various filters for Job Search section. For example you can ignore jobs that has 'Full Stack' in their title or 'United Kingdom' in their location.
-  - (Telegram) You can define your favourite channels using their username and then get their new messages into your application. For example you can define if a message had a keyword send it to my channel.
-- [**Websites Crawler**](https://github.com/ghorbani-mohammad/Crawler-Framework)
-  - Implemented using Django framework
-  - I created this project because back then I wanted to get new articles about politics or new tutorial articles in my Telegram channels.
-  - With this project you can get new articles from whatever website that you want. First you should define the structure of the website and how it should gets the list of articles. Then you should define how the get content of each article. So in general you have two define two HTML structure. (getting list of articles and getting the content of a article)
+Welcome to my GitHub profile! I'm a passionate software engineer who loves building innovative solutions and exploring new technologies.
 
- #### ➡️ I've done some projects about NLP tasks in the past:
- - [**Persian Text Analyzer**](https://github.com/ghorbani-mohammad/persian-text-analyzer)
-   - Developed with Django
-   - I used pretrained pytorch models to do some NLP tasks
-   - Tasks was: NER, Sentiment, Classification
-   - Users could sent their text via API call and get back the desired results.
- - [**Keyword Extraction**](https://github.com/ghorbani-mohammad/nlp-keyword-extraction)
-   - I used TextRank algorithm to extract keywords and keyphrases from a text
- - [**Information Gain**](https://github.com/ghorbani-mohammad/nlp-information-gain)
-   - About finding keywords or keyphrases that have most information gain
- - [**Document Representation**](https://github.com/ghorbani-mohammad/nlp-document-representation)
-   - About compare different ways to represent text documents
- - [**POSTagger NER**](https://github.com/ghorbani-mohammad/nlp-postagger-ner)
-   - Train models for POS tagging and NER
- #### ➡️ Other projects:
- - [**Crypto Assets Manager**](https://github.com/ghorbani-mohammad/Crypto-Assets-Manager)
-   - Developed with Django
-   - The goal was to register your bought assets and see their value in real-time and calculate your profit and loss
- - [**My Website**](https://github.com/ghorbani-mohammad/My-Website)
-   - Developed with PHP/Laravel, Jquery and Bootstrap
----
-### 📝 My recent posts on the Medium
+## 🚀 Featured Projects
+
+### Web Crawlers & Data Collection
+- **[Social Networks Crawler](https://github.com/ghorbani-mohammad/Social-Networks-Crawler)** - Django-based crawler for LinkedIn, Twitter, and Telegram
+  - **LinkedIn**: Monitor job postings and feed updates with customizable filters
+  - **Twitter**: Track specific topics and keywords, auto-forward to Telegram channels
+  - **Telegram**: Monitor favorite channels and filter messages by keywords
+
+- **[Websites Crawler](https://github.com/ghorbani-mohammad/Crawler-Framework)** - Generic web scraping framework
+  - Extract articles from any website by defining HTML structures
+  - Supports custom article listing and content extraction patterns
+  - Perfect for monitoring news, tutorials, and political content
+
+### Natural Language Processing (NLP)
+- **[Persian Text Analyzer](https://github.com/ghorbani-mohammad/persian-text-analyzer)** - Django API for Persian NLP tasks
+  - Named Entity Recognition (NER)
+  - Sentiment Analysis
+  - Text Classification
+  - Built with PyTorch pre-trained models
+
+- **[Keyword Extraction](https://github.com/ghorbani-mohammad/nlp-keyword-extraction)** - TextRank-based keyword extraction
+- **[Information Gain](https://github.com/ghorbani-mohammad/nlp-information-gain)** - Find high-information-gain keywords
+- **[Document Representation](https://github.com/ghorbani-mohammad/nlp-document-representation)** - Compare text document representation methods
+- **[POSTagger NER](https://github.com/ghorbani-mohammad/nlp-postagger-ner)** - Train POS tagging and NER models
+
+### Other Projects
+- **[Crypto Assets Manager](https://github.com/ghorbani-mohammad/Crypto-Assets-Manager)** - Django app for tracking cryptocurrency investments
+  - Real-time asset valuation
+  - Profit/loss calculations
+  - Portfolio management
+
+- **[Personal Website](https://github.com/ghorbani-mohammad/My-Website)** - Built with PHP/Laravel, jQuery, and Bootstrap
+
+## 📝 Latest Blog Posts
+
 <!-- MEDIUM-POST-LIST:START -->
-- [How To Deploy A Django App Over A Kubernetes Cluster &lpar;With Video&rpar;](https://medium.com/@tech_with_mike/how-to-deploy-a-django-app-over-a-kubernetes-cluster-with-video-bc5c807d80e2?source=rss-9aeaf3f70d42------2)
-- [ElasticSearch with Django Quick Tutorial &lpar;with Video&rpar;](https://medium.com/@tech_with_mike/elasticsearch-with-django-quick-tutorial-with-video-e75263f813c7?source=rss-9aeaf3f70d42------2)
-- [Django Docker Optimization with Multi-Stage technique &lpar;with Video&rpar;](https://medium.com/@tech_with_mike/django-docker-optimization-with-multi-stage-technique-with-video-73d96669cd2e?source=rss-9aeaf3f70d42------2)
-- [Learn Unit Test in Django Quickly &lpar;with Video&rpar;](https://medium.com/@tech_with_mike/learn-unit-test-in-django-quickly-with-video-9c39a1c86d47?source=rss-9aeaf3f70d42------2)
-- [CI/CD with Django and GitHub &lpar;with Video&rpar;](https://medium.com/@tech_with_mike/ci-cd-with-django-and-github-6499c4ced80c?source=rss-9aeaf3f70d42------2)
+- [How To Deploy A Django App Over A Kubernetes Cluster (With Video)](https://medium.com/@tech_with_mike/how-to-deploy-a-django-app-over-a-kubernetes-cluster-with-video-bc5c807d80e2?source=rss-9aeaf3f70d42------2)
+- [ElasticSearch with Django Quick Tutorial (with Video)](https://medium.com/@tech_with_mike/elasticsearch-with-django-quick-tutorial-with-video-e75263f813c7?source=rss-9aeaf3f70d42------2)
+- [Django Docker Optimization with Multi-Stage technique (with Video)](https://medium.com/@tech_with_mike/django-docker-optimization-with-multi-stage-technique-with-video-73d96669cd2e?source=rss-9aeaf3f70d42------2)
+- [Learn Unit Test in Django Quickly (with Video)](https://medium.com/@tech_with_mike/learn-unit-test-in-django-quickly-with-video-9c39a1c86d47?source=rss-9aeaf3f70d42------2)
+- [CI/CD with Django and GitHub (with Video)](https://medium.com/@tech_with_mike/ci-cd-with-django-and-github-6499c4ced80c?source=rss-9aeaf3f70d42------2)
 <!-- MEDIUM-POST-LIST:END -->
+
+## 🛠️ Tech Stack
+
+- **Backend**: Python, Django, FastAPI, Flask, DRF, PHP, Laravel
+- **Frontend**: JS, React, TypeScript, Bootstrap, NPM, PNPM, Vite
+- **DevOps**: Docker, Kubernetes, CI/CD, Terraform, MinIO
+- **Cloud**: AWS, GCP, Azure
+- **Data**: ElasticSearch
+- **ML/AI**: LLMs, LangChain, LangGraph, N8N, NLP, PyTorch
+- **Databases**: Postgres, MongoDB, DaynamoDB
+
+## 📊 GitHub Stats
+
+[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghorbani-mohammad&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
-[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghorbani-mohammad)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🤝 Let's Connect
+
+Feel free to explore my projects and reach out if you'd like to collaborate or have any questions!
+
+- 📧 **Email**: [mo.ghorb@gmail.com]
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/gh-m/]
+- 🐦 **Twitter**: [https://twitter.com/tech_with_mike]
